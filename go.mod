@@ -1,3 +1,3 @@
-module github.com/czekan/go-itsdangerous
+module github.com/rafaelsierra/go-itsdangerous
 
 go 1.16
